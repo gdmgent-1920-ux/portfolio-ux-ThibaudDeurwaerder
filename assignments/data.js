@@ -91,10 +91,16 @@ const data = {
             "href": "./assignments/assignment3/documents/a3-visual-designs.xd",
         },
         {
+            "text": "Adobe XD Prototype",
+            "title": "Mijn Adobe XD prototype (share link)",
+            "href": "https://xd.adobe.com/view/8a4296ef-0676-4223-7699-6e5e72ae7a50-fc73/",
+            "target": "_blank"
+        },
+        {
             "text": "Website",
             "title": "Mijn website voor opdracht 3",
             "href": "./assignments/assignment3/website/index.html",
             "target": "_blank"
-        }
+        },
     ]
 }},
