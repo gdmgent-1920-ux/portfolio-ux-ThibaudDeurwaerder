@@ -75,7 +75,7 @@ const data = {
     "assignment3": {
         "buttons": [
             {
-                "text": "Inspiratieboek",
+                "text": "Analyse",
                 "title": "Mijn PDF met inspiratie",
                 "href": "./assignments/assignment3/documents/a3-inspiration.pdf",
                 "target": "_blank"
@@ -84,6 +84,12 @@ const data = {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document met Wireframes & Visual Design",
                 "href": "./assignments/assignment3/documents/a3-wireframes-visual-designs.xd",
+            },
+            {
+                "text": "Adobe Wireframes",
+                "title": "Mijn Adobe wireframes",
+                "href": "./assignments/assignment3/documents/a3-wireframes",
+                "target": "_blank"
             },
             {
                 "text": "Adobe XD Prototype",
