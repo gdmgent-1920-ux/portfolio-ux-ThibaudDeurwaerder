@@ -88,7 +88,7 @@ const data = {
             {
                 "text": "Adobe Wireframes",
                 "title": "Mijn Adobe wireframes",
-                "href": "./assignments/assignment3/documents/a3-wireframes",
+                "href": "./assignments/assignment3/documents/a3-wireframes.xd",
                 "target": "_blank"
             },
             {
