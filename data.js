@@ -81,8 +81,8 @@ const data = {
                 "target": "_blank"
             },
             {
-                "text": "Adobe XD",
-                "title": "Mijn Adobe XD document met Wireframes & Visual Design",
+                "text": "Adobe Visual Design",
+                "title": "Mijn Adobe XD Visual Design",
                 "href": "./assignments/assignment3/documents/a3-wireframes-visual-designs.xd",
             },
             {
